@@ -12,6 +12,8 @@ Il tank sarà dotato di un [interruttore di livello](https://www.amazon.it/HeyNa
 
 Nella struttura a lato del punto dove verrà posto il bicchiere sarà invece presente un sensore ad ultrasuoni del Kit Arduino per verificarne la presenza. Questo sarà chiamato ***Si** (Sensore ad Infrarosso)*.
 
+![1718214069114](image/README/1718214069114.png)
+
 L'acqua verrà caricata tramite una [pompa ad immersione](https://www.amazon.it/RUNCCI-YUN-Sommergibile-Sommersa-Trasparente-Flessibile/dp/B082PM8L6X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.BvDnZOOEMe1jbq75fCUEGipr3fJHY_d6swHJyezsbH4UdO7TOfMiEIXU7w-4LtpRue8jSVjoeA0EqP4BrmAI698Acxgn_M5ew70pYa0jW_ViLIMgZTl13r_xlVoH5NS6WJ_kjiwDZgU8u5G42dHxrm_6s7WR0HxfVAgMmKlZJZzZ5bYzzXpakWc7XPgsa7nxjSCk8MazzJU2vm6Bj0f7newf08lANMCpFHLZdLq3gyqL7RKohShidx7iC76GTxYgMUmBx2W2vqacMQ3VCZR9avDxFN2LzhJQ7kzRO_5oXt8.YoRuR59_DLxdLE3QKRcPlJOchHAiYgcXpj7ixXlfN3I&dib_tag=se&keywords=arduino%2Bpump&qid=1718210361&sr=8-1&th=1) che pescherà l'acqua da un [tank da 5L](https://www.amazon.it/MARTEN-Marten-Acqua-demineralizzata-5L/dp/B06WVTDVFP/ref=sr_1_7?crid=3E8DSW908P8MC&dib=eyJ2IjoiMSJ9.W4lndhLax4vJEc1TGPmJe5CK1JppvqNF8geCVDVOix0R4e3mVDkiyg7aJxedYxHnH5uiT5PPuFUamHLDw-12nSiiHNkaQ_eT3XCSDHAHpvk3LDBykUi6jA7LySfFWiM1hJoRUEqaoXnB7ljUZoDz_X9HMbf4wpej2-gj31gMMhtWO1mE7x5jgVkl95I_ACmJyuPIlZrJKTZdVWTHzLOnDyJJt1mG4SbmNalHIcUPHSvffpNSfxHQboykTGIO1uZOMuaIpiTQmW0zwH7HUivCoJV0lWy6XimRD70xRXwd9zA.3T87neEwXo6vxkNqEWT_fSWy51aFrLC0pLg_yLb-lZY&dib_tag=se&keywords=5l+acqua&qid=1718211880&sprefix=5L%2Caps%2C127&sr=8-7) posto esternamente.
 
 ![1718212128770](image/README/1718212128770.png)
@@ -21,6 +23,8 @@ L'acqua verrà caricata tramite una [pompa ad immersione](https://www.amazon.it/
 Boccione:		10 €
 
 Arduino: 		gratis
+
+Sensore Infra:	gratis
 
 Modulo BT:	10 €
 
