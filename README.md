@@ -1,6 +1,5 @@
 # Dispenser
 
-
 # Specifiche tecniche
 
 Il dispenser dovrà essere realizzato con materiali semplici. Alla sua sommittà avrà un contenitore di 5L. La gestione dell'erogazione dovrà essere fatta mediante una scheda arduino e sensori di livello e prossimità.
@@ -35,7 +34,9 @@ Interruttore:	8 €
 
 Pompa:		11 €
 
-**Totale:		40 €**
+Legno:		20 €
+
+**Totale:		60 €**
 
 ## Circuito Hardware
 
