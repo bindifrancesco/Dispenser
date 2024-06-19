@@ -18,7 +18,7 @@ L'acqua verrà caricata tramite una [pompa ad immersione](https://www.amazon.it/
 
 ![1718212128770](image/README/1718212128770.png)
 
-Per realizzare la struttura di legano verrà usato un Compensato fenolico conifera spessore [9](https://www.tecnomat.it/it/comp-fenolico-conif-spes-9-mm-120x60-cm-25056014/)/[14](https://www.tecnomat.it/it/comp-fenolico-conif-spes-14mm-120x60-cm-10069610/) mm.
+Per realizzare la struttura di legano verrà usato un Compensato fenolico conifera spessore [9](https://www.tecnomat.it/it/comp-fenolico-conif-spes-9-mm-120x60-cm-25056014/) mm.
 
 ### Analisi dei costi
 
@@ -34,7 +34,9 @@ Interruttore:	8 €
 
 Pompa:		11 €
 
-Legno:		20 €
+Legno:		15 €
+
+Utensili:  5 €
 
 **Totale:		60 €**
 
