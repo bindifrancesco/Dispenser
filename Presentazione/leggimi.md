@@ -2,4 +2,4 @@ in questa cartella saranno salvati i file riguardanti la presentazioni audio/vid
 
 Membri del team presentazione:
 
-Chietti, Castìno, Uremassi, Lanata
+Chietti, Castino, Uremassi, Lanata
