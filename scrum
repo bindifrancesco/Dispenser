@@ -1,0 +1,122 @@
+PROGETTAZIONE
+Ivan
+ 
+CIRCUITI:
+Mattia
+Luca
+ 
+PRESENTAZIONE:
+Luca (Fotografo)
+Ruben
+Mirco
+Dovvo
+ 
+ASSEMBLAGGIO (AIUTO DISEGNO):
+Lorenzo Fossa
+Lorenzo Franceschi
+Yuri
+ 
+14.06.2024
+ 
+Team Circuiti ha completato la bozza del cablaggio (sensore che rileva bicchiere e sensore che rileva lo stato della tanica e se sta erogando): simulato su tink card lo schema elettrico del circuito in 2D e poi sviluppato su arduino. Da verificare se l altro gruppo vuole inserire il display (5 Volt di voltaggio per simulare il motore della pompa), va ordinata la pompa dell’ acqua.
+
+Team Disegno/ Assemblaggio ha sviluppato un modello 3D dove nelle rispettive visuali di lato di fronte e dall alto del dispenser vengono visualizzate in dettaglio le dimensioni e le porzioni destinate ai circuiti, nel disegno manca la scheda bluetooth e la pompa.
+
+
+Team Presentazione sta valutando lo stile della presentazione, le sequenze grafiche e il materiale multimediale
+
+
+
+21.06.2024   sprint
+
+Team assemblaggio - tagliare i pezzi e fare assemblaggio sommario
+
+Team circuiti - risolvere problema alimentazione e sensore acqua (eventualmente simulazione completa)
+
+Team Presentazione - Scaletta Presentazioni, Logo, Domande intervista
+
+(Team software vuole testare codici per pompa - sensore ultrasuoni - sensore dell ‘ acqua)
+
+
+
+
+21.06.2024  
+
+- Gruppo disegni: Il gruppo ha portato avanti il lavoro dei disegni definendo le misure definitive per far procedere il gruppo assemblaggio alle lavorazioni di taglio. Ha realizzato altresì le immagini dei 3D da condividere con il gruppo software.
+- Gruppo assemblaggio: oggi si sono concluse le operazioni di taglio dei pannelli. 
+- Gruppo presentazione: definito la struttura della sceneggiatura del video di promozione. Approntata una prima bozza del logo. Effettuate le riprese
+- Gruppo circuiti: consegnato il sottocircuito con il sensore di prossimità per il gruppo software. Definito il setting delle pompe ad immersione con test. Si è optato per due pompe collegate su un solo arduino. Abbiamo scelto di non usare il led per mancanza di connessioni. Useremo i led.
+
+
+
+25.06.2024 sprint
+
+ Gruppo assemblaggio: realizzazione lavorazioni sui singoli pannelli, definire come attaccare i pannelli e inizio del montaggio dell'arduino. (delegato Yuri @Yuri)    briefing point realizzato pannello e verificare integrazione con gli altri pannelli
+- Gruppo presentazione: procedere con la roadmap dei lavori. (delegato Luca Lanata @~Lu)
+briefing point realizzate scalette presentazioni e domande interviste
+ - Gruppo circuiti: concludere il setting della scheda BT e del sensore di livello. Fornire i sottocircuiti al gruppo software per i test. Approntare il disegno definitivo dello schema del circuito arcuino completo. (delegato @Proie. Se @~Luca  non viene fatti aiutare da qualcuno) briefing point consegnata scheda BT per test
+
+
+
+
+
+TRAILER
+(Dovvo)
+
+PRESENTAZIONE VIDEO
+
+titolo - logo
+
+intro progetto (PERSONA INTERVISTATAb2bAndre/Ivan dopo mini porzione Trailer/ prodotto quasi finito/ fase assemblaggio)
+
+ruoli e divisioni del team / disegni scetch bozze fasi di progettazione (Qualcuno parla e introduce le divisioni dei team/ sottoteam, alternati a spezzoni di video)
+
+interviste / disegni scetch bozze fasi di progettazione
+
+prodotto in funzione (eventuale slogan?)
+
+
+PRESENTAZIONE SCRITTA
+
+titolo - logo
+
+divisione dei team
+
+ambiente di lavoro software
+
+linguaggi usati
+
+(link) arduino codici
+arduino disegni e foto dei circuiti
+
+disegni prototipo (ivan)
+
+1 foto montaggio struttura
+
+passaggio assemblaggio circuiti 
+
+interfaccia applicazione
+
+spiegazione funzionalità
+
+
+
+DOMANDE INTERVISTA
+
+Hardware 
+
+Come è stato strutturato il progetto
+Divisione dei team
+
+Fasi principali:
+
+Disegno prototipo
+Circuiti 
+Assemblaggio finale
+
+
+Software
+
+Divisione compiti
+fasi critiche sviluppo del codice
+test effettuati?
