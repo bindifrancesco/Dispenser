@@ -22,7 +22,7 @@ Per realizzare la struttura di legano verrà usato un Compensato fenolico conife
 
 ### Analisi dei costi
 
-Boccione:		10 €
+Boccione:		3,40 €
 
 Arduino: 		gratis
 
